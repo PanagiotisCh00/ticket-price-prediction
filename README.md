@@ -1,2 +1,2 @@
 # Ticket-price-prediction
-This repository included a group project i participate din University of Cyprus for the course data mining on the web. We synthesised a system to predict the price of ticket planes using a dataset from MachineHack
+This repository included a group project i participated in University of Cyprus for the course "Data Mining on the Web". We synthesised a system to predict the price of ticket planes using a dataset from MachineHack. We analysed the data to select the most useful columns, preprocessed the data (One Hot Encoding, Cyclical Transformation) and in the end we tested a variety of machine learning algorithms and features to find the best.
